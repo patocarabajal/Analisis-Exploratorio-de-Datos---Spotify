@@ -1,0 +1,23 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Virtualenv ###
+venv/
+env/
+ENV/
+
+### CSV ###
+*.csv
+
+### IDE ###
+.vscode/
+.idea/
+
+### Logs ###
+*.log
+
+### Sistema operativo ###
+.DS_Store
+Thumbs.db
